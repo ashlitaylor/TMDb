@@ -1,0 +1,8 @@
+Average node degree: 1.661
+The nodal degree is the number of edges incident with a node, with the average nodal degree being an average of this number for all nodes. It can give a basic idea of the connectedness of the network. 
+
+Graph Diamater: 8
+The graph diameter shows the minimum number of connections you must go through to go between the farthest two nodes. 
+
+Average path length: 2.832
+The path length is the smallest number of edges connecting any two nodes in a network. The average path length shows as the average number of connections that would be needed for information to be promulgated throughout a network. 

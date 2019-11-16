@@ -1,0 +1,1 @@
+It could be valuable to know which movies are most frequently identified as being similar to the movies in the original query, so I chose to color and size the nodes based on the number of in-degree connections.
