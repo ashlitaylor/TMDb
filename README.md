@@ -11,7 +11,7 @@ After removing duplicate pairs, I request five similar movies and output the dat
 *movie_ID_sim_movie.csv - a CSV file containing the five most similar movies to the most popular Drama movies. Please visit this [notebook](https://github.com/ashlitaylor/TMDb/blob/master/TMDb.ipynb) to see a step by step guide to each section of the code. 
 
 ### Prerequisites
-This code requires ##Python 3.X** and requires a TMDb API code to be input to run. To get a TMDb account and API Code:
+This code uses Python 3.6 or later and requires a TMDb API code to be input to run. To get a TMDb account and API Code:
 1. Get a [TMDb account](https://www.themoviedb.org/account/signup)
 2. Request an [API key](https://docs.google.com/document/d/e/2PACX-1vQkWjHiLS1Xu2HZNQ7Egv08l_DdPnugoxUOZ0ugqBNHWY529xWB417QoSS0MbIih6PS9gu1Y1D-NFDT/pub)
 3. Follow TMDb API [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
