@@ -18,5 +18,7 @@ This code requires ##Python 3.X** and requires a TMDb API code to be input to ru
 
 ### Run
 In the terminal or command window, navigate to the folder where the script is located, and input the following command, substituting your API key:
+
 ```python3 script.py <API_KEY>```
+
 This will run the 'script.py' file and execute the code, generating the two aforementioned CSV files. 
